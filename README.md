@@ -32,6 +32,7 @@ This documents contains the resources that have helped me learn programming. Whe
 6. System design
 - Head First Design Patterns book
 - Grokking the System Design Interview by Design Gurus
+- Sourcemaking website: https://sourcemaking.com/design_patterns
 
 7. Others 
 - General roadmap & skills to explore different career paths: https://roadmap.sh/
