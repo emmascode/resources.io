@@ -26,6 +26,7 @@ This documents contains the resources that have helped me learn programming. Whe
 - The Odin Projects: Full-stack Javascript
 - Freecodecamp & Codecademy Web development path
 - Full-stack web development (React, Node.js, GraphQL, Typescript): Full stack open (https://fullstackopen.com/en)
+- App Academy Open also made their bootcamp curriculum available online for free 
 
 5. React
 - Free: Full Modern React Tutorial by Net Ninja on Youtube  
