@@ -35,4 +35,6 @@ This documents contains the resources that have helped me learn programming. Whe
 
 7. Others 
 - General roadmap & skills to explore different career paths: https://roadmap.sh/
+- java67.com blog for everything Java related: https://www.java67.com/
 - Women Who Code: https://www.womenwhocode.com/
+- Highly recommend to subscribe to groups on Linkedin and local Meetup groups to find your community and keep up with news and events
