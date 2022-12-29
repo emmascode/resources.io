@@ -40,7 +40,10 @@ This documents contains the resources that have helped me learn programming. Whe
 - Paid course: Grokking the System Design Interview by Design Gurus
 - Sourcemaking website: https://sourcemaking.com/design_patterns
 
-7. Others 
+8. Interview prep
+- Book: Cracking the coding interview https://www.crackingthecodinginterview.com/
+
+9. Others 
 - General roadmap & skills to explore different career paths: https://roadmap.sh/
 - Forum for programming resources & discussions: https://www.reddit.com/r/learnprogramming/wiki/faq/#wiki_where_do_i_find_good_learning_resources.3F
 - java67.com blog for everything Java related: https://www.java67.com/
