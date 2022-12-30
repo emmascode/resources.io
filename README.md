@@ -34,6 +34,7 @@ This documents contains the resources that have helped me learn programming. Whe
 
 6. AWS 
 - ACloudGuru: AWS Certified Cloud Prefessional (CLF-C01) course
+- YouTube channel: TechwithLucy https://www.youtube.com/@TechwithLucy
 
 7. System design
 - Book: Head First Design Patterns
